@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently studying Operations Research: Financial Engineering at Columbia University
+
 <!--
 **TrevorSemeraro/TrevorSemeraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
